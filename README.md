@@ -1,6 +1,6 @@
-### Hi there, I'm Lucjan! 👋
+## Hi there, I'm Lucjan! 👋
 
-## Here's a little bit about myself...
+### Here's a little bit about myself...
 I am a self-taught data engineer ⚡ and currently looking for new opportunities in this field. I have a keen interest in big data and I am enthusiastic about showcasing my latest projects.
 - ⚡ I'm a self-taught data engineer
   - 🤔 I'm currently looking for new opportunities in data engineering field
