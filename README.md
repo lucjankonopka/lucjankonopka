@@ -14,7 +14,7 @@
 
 #
   💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/lucjankonopka/portfolio) ~~ 💥💥💥
-#
+
 <!--
 **lucjankonopka/lucjankonopka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
