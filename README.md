@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucjan! 👋
 
-### Here's a little bit about myself...
+### Here's a little bit about myself
 
 - ⚡ I'm a self-taught data engineer
   - 🤔 I'm currently looking for new opportunities in data engineering field
@@ -11,7 +11,10 @@
   - [*Data Engineering, Big Data, and Machine Learning on GCP*](https://www.coursera.org/account/accomplishments/specialization/certificate/L6GC3BVG4FXT)
   - [*Google Data Analytics Certificate*](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile)
   - [*Taming Big Data with Apache Spark and Python*](https://www.udemy.com/certificate/UC-e77a4dc3-1f94-44f6-847b-b766e19da7b3/)
-  
+
+#
+  💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/lucjankonopka/portfolio) ~~ 💥💥💥
+#
 <!--
 **lucjankonopka/lucjankonopka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
