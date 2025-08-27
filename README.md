@@ -1,4 +1,4 @@
-## Hi there, I'm Lucjan! 👋
+## Hello there, I'm Lucjan! 👋
 
 ### Here's a little bit about myself
 
