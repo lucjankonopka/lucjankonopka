@@ -5,7 +5,6 @@
 - ⚡ About Me
   - 🎯 I’m a Data Engineer and Freelancer, specializing in building and optimizing data pipelines and large-scale data processing solutions.
   - 📦 Self-taught and highly motivated, I’m continuously expanding my expertise in cloud technologies and big data frameworks.
-  - 🚀 Currently developing my skills towards DevOps while building a strong portfolio of real-world projects.
 - 🌱 Current Focus
   - Growing expertise in Data Engineering and expanding knowledge in advanced data processing solutions.
   - Developing skills in DevOps practices, automation, and CI/CD pipelines.
